@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rascal999
-- 👀 I’m interested in security and NixOS.
-- 🌱 I’m currently learning about NixOS and Jupyter.
+- 👋 Hi, I'm @rascal999
+- 👀 I'm interested in security and NixOS.
+- 🌱 I'm currently learning about NixOS and Jupyter.
+- Recon is important, which is to say that data gathering is important.
 
 <!---
 rascal999/rascal999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
