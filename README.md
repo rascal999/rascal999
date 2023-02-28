@@ -1,8 +1,7 @@
 - 👋 Hi, I'm @rascal999
-- 👀 I'm interested in security and NixOS.
-- 🌱 I'm currently learning about NixOS and Jupyter.
-- Recon is important, which is to say that data gathering is important.
-- Check out my [YouTube channel](https://www.youtube.com/@AidanMarlin)
+- 📚 I'm interested in security and NixOS.
+- 🌱 I'm currently studying for [BSCP](https://portswigger.net/web-security/certification)
+- 📺 Check out my security-focused [YouTube channel](https://www.youtube.com/@AidanMarlin)
 
 <!---
 rascal999/rascal999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
