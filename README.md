@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @rascal999
-- 📚 I'm interested in security and NixOS.
-- 🌱 I'm currently studying for [BSCP](https://portswigger.net/web-security/certification)
+- 📚 I'm interested in security and NixOS
 - 📺 Check out my security-focused [YouTube channel](https://www.youtube.com/@AidanMarlin)
 
 <!---
